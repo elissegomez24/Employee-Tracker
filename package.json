@@ -1,0 +1,13 @@
+{
+    "name": "company-management-system",
+    "version": "1.0.0",
+    "description": "Manage departments, roles, and employees in a company.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "pg": "^8.12.0"
+    }
+}
